@@ -56,7 +56,7 @@ Used GIT and GitHub. There are commits attached to the entire project to show th
 
 ## Authors
 
- Cyprian Munene, any other contributor after the completion of the work can be viewed at this GitHub repository
+ Jacquline Wangu, any other contributor after the completion of the work can be viewed at this GitHub repository
 
 ## Copyright
 
