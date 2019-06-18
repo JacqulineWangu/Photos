@@ -12,7 +12,7 @@ class Location(models.Model):
     def save_location(self):
         self.save()
 
-    def delete_location(self):
+    d delete_location(self):
         Location.objects.filter().delete()
 
     @classmethod
