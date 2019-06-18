@@ -33,4 +33,4 @@ def filter_location(request,image_id):
         located_images = Image.objects.filter(image_location=image_id)
     except DoesNotExist:
         raise Http404()
-        return (request,'PHOTOS/image.html',{"located_images":located_images,"locations":location})
+        return render(request,'PHOTOS/image.html',{"located_images":located_images,"locations":location})
